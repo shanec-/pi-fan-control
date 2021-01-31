@@ -32,3 +32,9 @@ chmod +x install.sh
 ```
 
 Run `crontab -l` to verify that it was installed successfully.
+
+## Troubleshooting
+
+In case you get a error message stating that you `Must be root` - make sure to add the user to the gopio group.
+
+`sudo adduser pi gpio`
