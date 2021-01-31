@@ -27,8 +27,6 @@ Optionally
 Run the following commands to install the cron job.
 
 ```shell
-git clone https://github.com/shanec-/pi-fan-control.git
-cd pi-fan-control
 chmod +x install.sh
 ./install.sh
 ```
