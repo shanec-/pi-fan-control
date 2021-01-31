@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MIN_TEMP=48
+MIN_TEMP=55
 GPIO_PIN=25
 
 #https://www.cyberciti.biz/faq/linux-find-out-raspberry-pi-gpu-and-arm-cpu-temperature-command/
